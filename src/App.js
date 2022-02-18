@@ -7,7 +7,7 @@ function App() {
   return (
     <div >
       <Header/>
-      <Tartalom />
+      <Tartalom/>
       <Footer/>
     </div>
   );
